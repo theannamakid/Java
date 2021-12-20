@@ -1,4 +1,4 @@
-//program to find area of square, circle and triangle using method_overloading
+//program to find area of square, circle and triangle using method Overloading
 package test;
 
 import java.util.Scanner;
