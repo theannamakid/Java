@@ -1,3 +1,4 @@
+//Even or odd number
 package aswin;
 
 import java.util.Scanner;
