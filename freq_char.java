@@ -1,3 +1,4 @@
+//To find Frequency of a character
 package aswin;
 
 import java.util.Scanner;
